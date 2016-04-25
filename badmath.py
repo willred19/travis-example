@@ -3,8 +3,8 @@ import os
 import sys
 
 def multiplication(a, b):
-    return a + b
+    return a * b
 
 def addition(a, b):
-    return a * b
+    return a + b
 
